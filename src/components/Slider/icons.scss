@@ -1,0 +1,11 @@
+.icons {
+  height: 5rem;
+  width: 5rem;
+
+  color: white;
+
+  @media (max-width: 560px) {
+    height: 3rem;
+    width: 3rem;
+  }
+}
